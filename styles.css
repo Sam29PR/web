@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #8cc9ff; /* Azul claro */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile img {
+    width: 120px;
+    height: 120px;
+    border: 50%;
+    margin-right: 20px;
+  }
+  
+  .series {
+    margin-top: 20px;
+  }
+  
+  .serie {
+    margin-bottom: 20px;
+  }
+  
+  .serie img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
